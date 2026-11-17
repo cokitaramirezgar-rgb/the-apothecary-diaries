@@ -9,6 +9,7 @@ public class KusuriyaMod {
     public static final String MODID = "kusuriya";
 
     public KusuriyaMod(IEventBus modBus, ModContainer container) {
+        ModBlocks.BLOCKS.register(modBus);
         ModItems.ITEMS.register(modBus);
         ModEffects.EFFECTS.register(modBus);
         ModCreativeTabs.TABS.register(modBus);

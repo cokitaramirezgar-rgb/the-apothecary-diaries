@@ -1,5 +1,16 @@
 {
   "itemGroup.kusuriya": "Kusuriya",
   "item.kusuriya.silver_needle": "Silver Needle",
-  "effect.kusuriya.poison_resistance": "Poison Resistance"
+  "item.kusuriya.ginseng_seeds": "Ginseng Seeds",
+  "item.kusuriya.aconite_seeds": "Aconite Seeds",
+  "item.kusuriya.licorice_seeds": "Licorice Seeds",
+  "item.kusuriya.ginseng_root": "Ginseng Root",
+  "item.kusuriya.aconite_root": "Aconite Root",
+  "item.kusuriya.licorice_root": "Licorice Root",
+  "item.kusuriya.antidote": "Antidote",
+  "block.kusuriya.ginseng_crop": "Ginseng",
+  "block.kusuriya.aconite_crop": "Aconite",
+  "block.kusuriya.licorice_crop": "Licorice",
+  "effect.kusuriya.poison_resistance": "Poison Resistance",
+  "effect.kusuriya.aconite_poisoning": "Aconite Poisoning"
 }

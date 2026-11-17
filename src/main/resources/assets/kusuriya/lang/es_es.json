@@ -1,5 +1,16 @@
 {
   "itemGroup.kusuriya": "Kusuriya",
   "item.kusuriya.silver_needle": "Aguja de plata",
-  "effect.kusuriya.poison_resistance": "Resistencia a venenos"
+  "item.kusuriya.ginseng_seeds": "Semillas de ginseng",
+  "item.kusuriya.aconite_seeds": "Semillas de acónito",
+  "item.kusuriya.licorice_seeds": "Semillas de regaliz",
+  "item.kusuriya.ginseng_root": "Raíz de ginseng",
+  "item.kusuriya.aconite_root": "Raíz de acónito",
+  "item.kusuriya.licorice_root": "Raíz de regaliz",
+  "item.kusuriya.antidote": "Antídoto",
+  "block.kusuriya.ginseng_crop": "Ginseng",
+  "block.kusuriya.aconite_crop": "Acónito",
+  "block.kusuriya.licorice_crop": "Regaliz",
+  "effect.kusuriya.poison_resistance": "Resistencia a venenos",
+  "effect.kusuriya.aconite_poisoning": "Envenenamiento por acónito"
 }
