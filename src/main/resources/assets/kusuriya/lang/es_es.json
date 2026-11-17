@@ -1,16 +1,26 @@
 {
   "itemGroup.kusuriya": "Kusuriya",
   "item.kusuriya.silver_needle": "Aguja de plata",
+  "item.kusuriya.mortar": "Mortero",
   "item.kusuriya.ginseng_seeds": "Semillas de ginseng",
   "item.kusuriya.aconite_seeds": "Semillas de acónito",
   "item.kusuriya.licorice_seeds": "Semillas de regaliz",
   "item.kusuriya.ginseng_root": "Raíz de ginseng",
   "item.kusuriya.aconite_root": "Raíz de acónito",
   "item.kusuriya.licorice_root": "Raíz de regaliz",
-  "item.kusuriya.antidote": "Antídoto",
+  "item.kusuriya.ginseng_powder": "Polvo de ginseng",
+  "item.kusuriya.aconite_powder": "Polvo de acónito",
+  "item.kusuriya.licorice_powder": "Polvo de regaliz",
+  "item.kusuriya.antidote": "Antídoto general",
+  "item.kusuriya.aconite_antidote": "Antídoto de acónito",
+  "item.kusuriya.herbal_tonic": "Tónico herbal",
+  "item.kusuriya.aconite_tincture": "Tintura de acónito",
   "block.kusuriya.ginseng_crop": "Ginseng",
   "block.kusuriya.aconite_crop": "Acónito",
   "block.kusuriya.licorice_crop": "Regaliz",
   "effect.kusuriya.poison_resistance": "Resistencia a venenos",
-  "effect.kusuriya.aconite_poisoning": "Envenenamiento por acónito"
+  "effect.kusuriya.aconite_poisoning": "Envenenamiento por acónito",
+  "message.kusuriya.needle_empty": "Sostén algo en la otra mano para probarlo.",
+  "message.kusuriya.needle_poison": "La aguja se ennegrece... ¡hay veneno!",
+  "message.kusuriya.needle_safe": "La aguja sigue limpia. No se detecta veneno."
 }

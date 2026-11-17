@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "kusuriya:mortar"
+    },
+    {
+      "item": "kusuriya:ginseng_root"
+    }
+  ],
+  "result": {
+    "id": "kusuriya:ginseng_powder",
+    "count": 2
+  }
+}

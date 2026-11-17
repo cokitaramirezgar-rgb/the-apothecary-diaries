@@ -16,13 +16,20 @@ public class ModCreativeTabs {
                     .icon(() -> ModItems.SILVER_NEEDLE.get().getDefaultInstance())
                     .displayItems((params, output) -> {
                         output.accept(ModItems.SILVER_NEEDLE.get());
+                        output.accept(ModItems.MORTAR.get());
                         output.accept(ModItems.GINSENG_SEEDS.get());
                         output.accept(ModItems.ACONITE_SEEDS.get());
                         output.accept(ModItems.LICORICE_SEEDS.get());
                         output.accept(ModItems.GINSENG_ROOT.get());
                         output.accept(ModItems.ACONITE_ROOT.get());
                         output.accept(ModItems.LICORICE_ROOT.get());
+                        output.accept(ModItems.GINSENG_POWDER.get());
+                        output.accept(ModItems.ACONITE_POWDER.get());
+                        output.accept(ModItems.LICORICE_POWDER.get());
                         output.accept(ModItems.ANTIDOTE.get());
+                        output.accept(ModItems.ACONITE_ANTIDOTE.get());
+                        output.accept(ModItems.HERBAL_TONIC.get());
+                        output.accept(ModItems.ACONITE_TINCTURE.get());
                     })
                     .build());
 }

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "kusuriya:licorice_powder"
+    },
+    {
+      "item": "kusuriya:licorice_powder"
+    },
+    {
+      "item": "minecraft:glass_bottle"
+    }
+  ],
+  "result": {
+    "id": "kusuriya:aconite_antidote",
+    "count": 1
+  }
+}
